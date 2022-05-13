@@ -1,17 +1,21 @@
+
 <h1 align="center">Aidan B 📺</h1>
 
-Hi, my name's Aidan, and I'm a Java developer from Brazil! 😃
+<p align="center">Hi, my name's Aidan, and I'm a Java developer from Brazil! 😃</p>
 
-- **Pronouns:** he/him
-- **Location:** Brazil
-- **Languages (Human):** Portuguese (Brazilian), English, a little bit of Spanish
+<p align="center">
+  He/him || Brazil || 🇧🇷 🇬🇧  
+</p>
+
+![judgehangman header image](img/judgehangman.png)
+
 
 ---
 
 <div align="center">
   <a href="https://github.com/judgehangman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judgehangman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgehangman&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=judgehangman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judgehangman&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ## 💻 Languages and Tools:
